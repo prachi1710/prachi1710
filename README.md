@@ -5,7 +5,7 @@
 - 🔭 I’m currently a student of B.Tech(2nd year).
 - 🌱 I’m currently learning html,css,javascript and react js.
 - 📫 How to reach me: facebook,twitter,instagram,LinkedIn.
-- 😄 Pronouns: I love to be what i am.
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am not interested in sleeping.
 
 ### Connect with me:
