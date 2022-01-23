@@ -25,3 +25,15 @@
       
 
 <br />
+
+### Github Stats:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prachi1710&label=Profile%20views&color=0e75b6&style=flat" alt="prachi1710" /> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prachi1710&show_icons=true&locale=en&layout=compact" alt="prachi1710" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prachi1710&show_icons=true&locale=en" alt="prachi1710" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachi1710&" alt="prachi1710" /></p>
+
+<br />
