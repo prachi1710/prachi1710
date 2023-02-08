@@ -2,7 +2,7 @@
 
 <h3 align="center"> 👩🏻‍💻 This is Prachi</h3> 
 
-- 🔭 I’m currently a student of B.Tech(2nd year).
+- 🔭 I’m currently a student of B.Tech(3rd year).
 - 🌱 I’m currently learning html,css,javascript and react js.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am not interested in sleeping.
